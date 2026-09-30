@@ -53,7 +53,6 @@ An end-to-end data analytics project focused on analyzing student academic perfo
 * Analyzed performance levels, pass/fail results, attendance, study hours, gender, and class-wise performance.
 * Generated data-driven insights from the analysis.
 
-🔗 **Repository:** [Student Performance Analytics System](https://github.com/Hardik-Sondagar)
 
 ---
 
@@ -72,7 +71,6 @@ An interactive Excel dashboard created to analyze retail sales performance using
 * Analyzed customer demographics by age, gender, and region.
 * Identified best-selling product categories and sales patterns.
 
-🔗 **Repository:** [E-Commerce Sales Performance & Insights Dashboard](https://github.com/Hardik-Sondagar)
 
 ---
 
